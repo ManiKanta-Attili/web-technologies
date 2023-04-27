@@ -4,21 +4,21 @@
 # Here are some of my projects on web technologies
 
 
-maniresp.ccbp.tech
+https://maniresp.ccbp.tech
 
-maniresability.ccbp.tech
+https://maniresability.ccbp.tech
 
-manireswelcome.ccbp.tech
+https://manireswelcome.ccbp.tech
 
-manistaticconso.ccbp.tech
+https://manistaticconso.ccbp.tech
 
-manipopularbook.ccbp.tech
+https://manipopularbook.ccbp.tech
 
-maninightmusic.ccbp.tech
+https://maninightmusic.ccbp.tech
 
-manikantacareer.ccbp.tech
+https://manikantacareer.ccbp.tech
 
-manikantaflat.ccbp.tech
+https://manikantaflat.ccbp.tech
 
-manikantayoga.ccbp.tech
+https://manikantayoga.ccbp.tech
 
